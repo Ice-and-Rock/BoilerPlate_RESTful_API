@@ -1,3 +1,7 @@
+# This project must be split into two seperate folders on Github. One folder for the backend and one for the frontend.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
